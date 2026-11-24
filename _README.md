@@ -4,8 +4,6 @@ Version: 0.1
 
 ## Emergent Software AI-Ready Brand Kit
 
-[Emergent Software AI-Ready Brand Kit (SharePoint)](https://emergentsoftware.sharepoint.com/:f:/r/Emergent%20Software/SharePoint/Identity/Emergent%20Software%20AI-Ready%20Brand%20Kit?web=1)
-
 Think of it as `package.json` for our brand. One place where AI tools go to get a persistent, structured understanding of our visual identity. Instead of hoping the agent guesses our brand correctly, we just hand it a structured playbook. Colors, fonts, logos, components, writing style, the whole stack.
 
 ## Table of Contents
